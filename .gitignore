@@ -1,2 +1,10 @@
 *.agdai
 MAlonzo/**
+# exclude everything jpg
+*.jpg
+
+# exclude ext folder
+/ext/*
+
+# exclude all jpg file in images folder
+/images/*.jpg
