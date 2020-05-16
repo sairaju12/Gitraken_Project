@@ -1,6 +1,6 @@
 Garlic Pasta
 
-Menu Class: Main Course
+Menu Class: Desert
 
 Description:
 This is simple yet irresistable. You can serve a large portion as a main dish at dinner parties.
