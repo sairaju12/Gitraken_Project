@@ -3,6 +3,8 @@ Additional text for Dessert
 Description:
 This will become your new favorit dessert.Ladyfinger cookies dipped in coffee, then layered with mascarponed and dusted with cocoa powder.
 
+Ingredients
+1. 6 egg yolks
 
 Servings: 6
 
